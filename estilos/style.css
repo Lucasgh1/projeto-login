@@ -1,2 +1,16 @@
 @charset "UTF-8";
 
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+body {
+    background-image: url(../imagens/pexels-dinnow-9444476.jpg);
+    background-position: center center;
+    background-size: cover;
+}
